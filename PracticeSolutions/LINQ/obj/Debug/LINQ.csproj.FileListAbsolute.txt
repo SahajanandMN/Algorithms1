@@ -1,0 +1,6 @@
+G:\Visual Studio Practice\PracticeSolutions\LINQ\bin\Debug\LINQ.exe.config
+G:\Visual Studio Practice\PracticeSolutions\LINQ\bin\Debug\LINQ.exe
+G:\Visual Studio Practice\PracticeSolutions\LINQ\bin\Debug\LINQ.pdb
+G:\Visual Studio Practice\PracticeSolutions\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+G:\Visual Studio Practice\PracticeSolutions\LINQ\obj\Debug\LINQ.exe
+G:\Visual Studio Practice\PracticeSolutions\LINQ\obj\Debug\LINQ.pdb

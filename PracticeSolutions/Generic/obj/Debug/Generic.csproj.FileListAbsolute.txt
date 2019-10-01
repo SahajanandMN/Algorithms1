@@ -1,0 +1,6 @@
+G:\Visual Studio Practice\PracticeSolutions\Generic\bin\Debug\Generic.exe.config
+G:\Visual Studio Practice\PracticeSolutions\Generic\bin\Debug\Generic.exe
+G:\Visual Studio Practice\PracticeSolutions\Generic\bin\Debug\Generic.pdb
+G:\Visual Studio Practice\PracticeSolutions\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+G:\Visual Studio Practice\PracticeSolutions\Generic\obj\Debug\Generic.exe
+G:\Visual Studio Practice\PracticeSolutions\Generic\obj\Debug\Generic.pdb
